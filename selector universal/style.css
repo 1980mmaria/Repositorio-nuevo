@@ -1,0 +1,32 @@
+/*selector universal*/
+*{
+    background-color: rgb(50, 165, 42);
+    font-size: 10px;
+}
+/*selector etiqueta*/
+div{
+    background-color: blue;
+    margin-bottom: 10px; /*para manejar el margen inferior de tu elemento*/
+    width: 50px; /*ancho del */
+    height: 50px; /*alto*/
+    border-radius: 100%;/*redondeo*/ 
+}
+p{
+    background-color: aqua;
+}
+h1{
+    background-color: blue;
+}
+/*selector clase*/
+.bg-black{ 
+    background-color: blueviolet; se abre con punto para seleccionar una clase
+}
+.color-white{
+        color: brown; /*es para cambiar color de fuentes*/
+    }
+/*selector identificador*/
+#text-large{
+    font-size: large;
+    color: brown;
+}
+/*selector desendiente*/

@@ -1,0 +1,18 @@
+*/selector desendiente*/
+section p{
+    color: blue;
+}
+/*conbinacion de selectores*/
+input,button{
+background-color: rgb(176, 189, 176);
+margin-bottom: 10px;
+width: 100%;
+    
+}
+fieldset>p{
+    color: blue;
+}
+/*selector hermano*/
+div+p{
+    background-color: brown;
+}
