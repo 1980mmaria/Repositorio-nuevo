@@ -5,12 +5,14 @@
 body{
     background-color: aqua;
 }
-.Login{
-    background-color: white;
-    width: 400px;
-    height: auto;
-    margin: 100px auto;
+.Login {
+    background-color: white ;
+    width: 400px ;
+    height:400px;
+    margin: 100px center;
+    text-align:center;
     padding: 20px;
+    
     box-shadow: 4px 4px 15px rgb(20, 20, 26);
 }
 .Login>div{
@@ -18,33 +20,27 @@ body{
     height: 50px;
     font-size: x-large;
     font-weight: bolder;
-    color: white;
+    color: white ;
     padding-top: 15px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
-.Login >h1{
-    background: #09de85;
-    text-align:center;
-    color: white;
-    font-weight: 900px;
-    margin-bottom: 40px;
-}
+
 .Login >form div{
     display: flex;
     flex-direction: column;
+    text-align: left;
 }
 .Login>form div>label{
     
 color: #0b0a0a;
 }
 .Login>form div input{
-    border: none;
-    outline: none;
-    border-bottom: 30px #9a1212 solid;
+    border: 3;
+    outline:none ;
+    border-bottom: 30px #;
     margin-bottom: 40px;
-    div
-    text-align: center;
+    
     
     }
 .Login>Form div>button{
@@ -53,8 +49,7 @@ color: #0b0a0a;
     padding: 20px 0;
     border: none;
     }
-    .Login>form div>a{
-        color: #280aa0;
+   
 
-    }
+    
     
