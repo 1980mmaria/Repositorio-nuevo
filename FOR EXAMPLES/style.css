@@ -8,6 +8,9 @@ body {
     margin: 0;
 }
 
+
+
+
 .header{
     margin-top: 20px;
     margin-bottom: 20px;
@@ -34,6 +37,7 @@ h2 {
     margin-top: 0;
     color: #2b6fda;
     text-align: center;
+    left: 100px;
 }
 
 p {
