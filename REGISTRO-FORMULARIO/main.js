@@ -4,8 +4,3 @@ document.addEventListener("DOMContentLoaded",() => {
         box_load.classList.toggle("hidden");
     }, 1000);
 });
-
-
-
-
-

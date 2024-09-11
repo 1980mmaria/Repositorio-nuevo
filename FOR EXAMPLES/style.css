@@ -1,11 +1,17 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #d3e7ff;
+    background-color: #f0f2f4;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
+}
+.element{
+    width: 600px;
+    height: 600px;
+    background-color: black;
+    color: white;
 }
 
 
